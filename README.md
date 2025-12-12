@@ -24,11 +24,15 @@ Python, Pandas, Seaborn, Matplotlib, Streamlit
 ## 🗂 Project Structure
 
 flipkart-data-analysis-dashboard/
-│
+
 ├── analysis.ipynb              # Jupyter notebook exploration
+
 ├── dashboard.py                # Streamlit dashboard
+
 ├── requirements.txt            # Required Python libraries
+
 ├── README.md                   # Project documentation
+
 └── (Dataset downloaded separately from Kaggle)
 
 
